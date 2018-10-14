@@ -1,1 +1,1 @@
-# web-scrapting
+# web-scraping
