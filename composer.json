@@ -1,0 +1,13 @@
+{
+    "name": "mr/my-scraper",
+    "description": "",
+    "authors": [
+        {
+            "name": "Francisco",
+            "email": "dreitec.ing1@gmail.com"
+        }
+    ],
+    "require": {
+        "paquettg/php-html-parser": "1.7.0"
+    }
+}
